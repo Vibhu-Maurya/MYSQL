@@ -27,8 +27,8 @@ SELECT title FROM movies;
 SELECT director FROM movies;
 ```
 
-![Director Output](<img width="970" height="611" alt="Screenshot 2026-03-18 120627" src="https://github.com/user-attachments/assets/2fd1528b-7c3a-41e5-b3e9-cec37d7a260f" />
-)
+![Director Output]<img width="970" height="611" alt="Screenshot 2026-03-18 120627" src="https://github.com/user-attachments/assets/2fd1528b-7c3a-41e5-b3e9-cec37d7a260f" />
+
 
 ---
 
