@@ -16,7 +16,8 @@ Contains data about Pixar films including title, director, year, and duration.
 SELECT title FROM movies;
 ```
 
-![Title Output](screenshots/title_query.png)
+![Title Output](<img width="965" height="572" alt="Screenshot 2026-03-18 120522" src="https://github.com/user-attachments/assets/e1628b6e-2ed8-4314-8cd4-b9909387e163" />
+)
 
 ---
 
@@ -26,7 +27,8 @@ SELECT title FROM movies;
 SELECT director FROM movies;
 ```
 
-![Director Output](screenshots/director_query.png)
+![Director Output](<img width="970" height="611" alt="Screenshot 2026-03-18 120627" src="https://github.com/user-attachments/assets/2fd1528b-7c3a-41e5-b3e9-cec37d7a260f" />
+)
 
 ---
 
@@ -36,7 +38,8 @@ SELECT director FROM movies;
 SELECT title, director FROM movies;
 ```
 
-![Title and Director](screenshots/title_director.png)
+![Title and Director](<img width="963" height="679" alt="Screenshot 2026-03-18 120658" src="https://github.com/user-attachments/assets/3266830b-d049-412e-8f49-86e71a24f92c" />
+)
 
 ---
 
@@ -46,7 +49,8 @@ SELECT title, director FROM movies;
 SELECT title, year FROM movies;
 ```
 
-![Title and Year](screenshots/title_year.png)
+![Title and Year](<img width="967" height="705" alt="Screenshot 2026-03-18 120725" src="https://github.com/user-attachments/assets/e7e7d474-24ee-43d6-ac5a-83c188c9bbe4" />
+)
 
 ---
 
@@ -56,7 +60,8 @@ SELECT title, year FROM movies;
 SELECT * FROM movies;
 ```
 
-![All Data](screenshots/table_view.png)
+![All Data](<img width="1441" height="721" alt="Screenshot 2026-03-18 120829" src="https://github.com/user-attachments/assets/02384ee3-403f-4d4c-a26c-e0a726e4be44" />
+)
 
 ---
 
