@@ -16,8 +16,8 @@ Contains data about Pixar films including title, director, year, and duration.
 SELECT title FROM movies;
 ```
 
-![Title Output](<img width="965" height="572" alt="Screenshot 2026-03-18 120522" src="https://github.com/user-attachments/assets/e1628b6e-2ed8-4314-8cd4-b9909387e163" />
-)
+<img width="965" height="572" alt="Screenshot 2026-03-18 120522" src="https://github.com/user-attachments/assets/e1628b6e-2ed8-4314-8cd4-b9909387e163" />
+
 
 ---
 
