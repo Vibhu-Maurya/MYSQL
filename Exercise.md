@@ -4,7 +4,7 @@ This project demonstrates basic SQL queries using the `movies` table.
 
 ---
 
-## 🗂️ Table: Movies
+##  Table: Movies
 
 Contains data about Pixar films including title, director, year, and duration.
 
@@ -76,6 +76,4 @@ SELECT * FROM movies;
 
 ---
 
-## 📌 Author
 
-Vibhu (Champ 😎)
